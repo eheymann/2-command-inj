@@ -1,0 +1,3 @@
+CWE78_OS_Command_Injection__char_console_execl_41: CWE78_OS_Command_Injection__char_console_execl_41.c 
+	gcc -o CWE78_OS_Command_Injection__char_console_execl_41 CWE78_OS_Command_Injection__char_console_execl_41.c
+
